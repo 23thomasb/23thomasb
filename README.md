@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a Clash Royale legend
-<!--
+<!--hehehe
 **23thomasb/23thomasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
