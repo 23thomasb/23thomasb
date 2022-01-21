@@ -1,5 +1,5 @@
 ### Hi there 👋
-abc
+I am a Clash Royale legend
 <!--
 **23thomasb/23thomasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
