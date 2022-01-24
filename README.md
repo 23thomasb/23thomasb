@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am a Clash Royale legend
-I am learning Python
+I am a Clash Royale legend and I am learning Python
 <!--hehehe
 **23thomasb/23thomasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
